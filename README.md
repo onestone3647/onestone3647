@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **onestone3647/onestone3647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +15,11 @@ Here are some ideas to get you started:
 ***
 
 ##### ✨ Skills
-- Game Engine 
+- Game Engine  
 ![UnrealEngine](https://img.shields.io/badge/UnrealEngine-0E1128.svg?logo=UnrealEngine&logoColor=white&?style=for-the-badge?logo=appveyor)
-- IDE 
+- IDE  
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?logo=Rider&logoColor=white&tyle=for-the-badge?logo=appveyor) 
-- Languages
+- Languages  
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white&tyle=for-the-badge?logo=appveyor) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=C++&logoColor=white&tyle=for-the-badge?logo=appveyor)
 
 ***
